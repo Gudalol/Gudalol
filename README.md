@@ -80,7 +80,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="space.gif"  />
+  <img height="200" src="seeyouinspace.gif"  />
 </div>
 
 ###
