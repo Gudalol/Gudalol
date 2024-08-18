@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<h2 align="left">I Code With</h2>
+<h2 align="left">I code with</h2>
 
 ###
 
