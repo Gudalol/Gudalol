@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I Code With</h2>
 
 ###
 
@@ -53,31 +53,34 @@
 
 ###
 
-<h2 align="left">Contact Me</h2>
+<h3 align="left">Contact Me</h3>
+
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td style="padding-right: 20px; vertical-align: top;">
+      <img align="left" height="200" src="celty.gif" />
+    </td>
+    <td style="vertical-align: top;">
+      <p align="left">If you need to reach out to me about anything here are some ways:</p>
+      <div align="left" style="margin-top: 10px;">
+        <a href="https://www.linkedin.com/in/gustavo-ferreira-dos-santos-72b140237/" target="_blank">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+        </a>
+        <a href="https://www.instagram.com/gusta.guda/" target="_blank" style="margin-left: 20px;">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ###
 
-<div style="display: flex; align-items: center;">
-  <img src="https://i.imgflip.com/65efzo.gif" height="200" alt="image" style="margin-right: 20px;" />
-  <div style="flex: 1;">
-    <p>If you need to reach out to me about anything here are some ways</p>
-    <div style="display: flex;">
-      <a href="https://www.linkedin.com/in/gustavo-ferreira-dos-santos-72b140237/" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-      </a>
-      <a href="https://www.instagram.com/gusta.guda/" target="_blank" style="margin-left: 10px;">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-      </a>
-    </div>
-  </div>
-</div>
-
-###
 
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="space.gif"  />
 </div>
 
 ###
