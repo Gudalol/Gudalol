@@ -44,7 +44,28 @@
 
 ###
 
-(https://github-readme-stats.vercel.app/api?username=gudalol)](https://github.com/gudalol/github-readme-stats)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Gudalol&show_icons=true&theme=dark&bg_color=000000&card_width=500" style="height: 200px;" />
+    </td>
+    <td>
+      <div style="transform: scale(0.9); transform-origin: top left;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gudalol&layout=compact&bg_color=000000&card_width=300" style="height: 200px;" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
 
 ###
 
