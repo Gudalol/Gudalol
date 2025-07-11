@@ -51,7 +51,7 @@
     </td>
     <td>
       <div style="transform: scale(0.9); transform-origin: top left;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gudalol&layout=compact&bg_color=000000&card_width=300" style="height: 200px;" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gudalol&layout=compact&bg_color=000000&card_width=300&langs_count=8&order=2" style="height: 200px;" />
       </div>
     </td>
   </tr>
