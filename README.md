@@ -47,7 +47,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Gudalol&show_icons=true&theme=dark&bg_color=000000&card_width=500" style="height: 200px;" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Gudalol&show_icons=true&langs_count=8&theme=dark&bg_color=000000&card_width=500" style="height: 200px;" />
     </td>
     <td>
       <div style="transform: scale(0.9); transform-origin: top left;">
